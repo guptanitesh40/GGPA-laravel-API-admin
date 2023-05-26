@@ -1,0 +1,191 @@
+body.light {
+    background: #f8f8f8;
+}
+.light .sec_brdr_title {
+    -webkit-text-stroke: 1px rgba(42, 61, 75, 0.5);
+}
+.light .sec_scnd_title {
+    color: #2a3d4b;
+}
+.light .sec_crsv_title {
+    color: #2a3d4b;
+}
+.light .sec_para_main {
+    color: #2a3d4b;
+}
+.light header {
+    background: #f1fdff;
+}
+.light header .mobile_nav li .menu_text {
+    color: #2a3d4b;
+}
+.light .about_us_hero {
+    background-image: url("../img/about_hero_banner_white.png");
+}
+.light .contact_hero {
+    background-image: url("../img/contact_hero_white.png");
+}
+.light .blog_hero {
+    background-image: url("../img/blog_hero_sec_white.jpg");
+}
+.light .faq_hero {
+    background-image: url("../img/faq_illustrator_white.png");
+}
+.light .gtco-testimonials .card-text {
+    color: #2a3d4b;
+}
+.light .gtco-testimonials .card-text_scnd {
+    color: #2a3d4b;
+}
+/*.light .home_main_sec {
+    background-image: url("../img/vector_bg_white.png");
+}*/
+.light .home_main_sec_08 {
+    background: #2a3d4b82;
+}
+
+.light .about_main_sec_02 {
+    background-image: url("../img/home-experiences-light.jpg");
+}
+.light .about_main_sec_02.about_page {
+    background-image: url("../img/about-justtravel-light.jpg");
+}
+.light .contact_main_sec_02 {
+    background-image: url("../img/contact-faq-light.jpg");
+}
+.light .about_main_sec_02 .sec_scnd_title {
+    color: #fff;
+}
+.light .about_main_sec_02 .sec_crsv_title {
+    color: #fff;
+}
+.light .about_main_sec_03 input {
+    background: #e4fbff;
+    color: #2a3d4b;
+}
+.light .about_main_sec_03 textarea {
+    background: #e4fbff;
+    color: #2a3d4b;
+}
+.light .about_main_sec_03 p {
+    color: #2a3d4b;
+    text-align: center;
+}
+.light .contact_main_sec_01 .contact_main_sec_01_details p {
+    color: #2a3d4b;
+}
+.light .contact_main_sec_01 .contact_main_sec_01_details p span {
+    color: #2a3d4b;
+}
+.light .contact_main_sec_02 .sec_scnd_title {
+    color: #fff;
+}
+.light .contact_main_sec_02 .sec_crsv_title {
+    color: #fff;
+}
+.light .faq_hero_sec {
+    background: linear-gradient(
+        rgb(136 192 223 / 1) 0%,
+        rgb(241 253 255) 100%
+    ) !important;
+}
+.light .faq_main_sec_01 .accordion-heading a {
+    color: #2a3d4b;
+}
+.light .faq_main_sec_01 .accordion-inner p {
+    color: #2a3d4b;
+}
+.light .faq_main_sec_01 .accordion-group .accordion-group_cstmclas {
+    background: #e4fbff;
+}
+.light
+    .faq_main_sec_01
+    .accordion-group
+    .accordion-group_cstmclas
+    .card-header
+    h2
+    button {
+    color: #2a3d4b;
+}
+.light .blog_main_sec01 .card-body {
+    background-color: transparent;
+}
+.light .blog_main_sec01 .blog_sec_title {
+    color: #2a3d4b;
+}
+.light .blog_main_sec01 .blog_third_title {
+    color: #2a3d4b;
+}
+.light .categoryName {
+    color: #2a3d4b;
+}
+.light .blog_details_main_sec02 .blog_details_main_sec02_text .sec_scnd_title {
+    color: #fff;
+}
+.light .blog_details_main_sec02 .blog_details_main_sec02_text .sec_crsv_title {
+    color: #fff;
+}
+.light .blog_details_main_sec02 .blog_details_main_sec02_text .sec_para_main {
+    color: #fff;
+}
+.light .blog_details_main_sec03 .blog_details_main_sec03_left ul li {
+    color: #2a3d4b;
+}
+.light .blog_details_main_sec04 .blog_details_main_sec04_left p {
+    color: #2a3d4b;
+}
+.light .blog_details_main_sec04 .blog_details_main_sec04_left ul li {
+    color: #2a3d4b;
+}
+.light .content_privacy_policy {
+    color: #2a3d4b;
+}
+.light .content_terms_and_conditions {
+    color: #2a3d4b;
+}
+.light .hero_404 h3,
+.hero_404 h4,
+.hero_500 h3,
+.hero_500 h4 {
+    color: #fff;
+}
+
+.light .specialoffer_sec_main_white {
+    display: block;
+}
+.light .specialoffer_sec_main_dark {
+    display: none;
+}
+
+.light .partner_logo_sec {
+    background-color: #effdfd;
+}
+
+.light .Forpress_sec {
+    background-image: url("../img/presskit-inquiry-light.png") !important;
+}
+
+.light .Forpress h1 {
+    color: #2a3d4b;
+}
+
+.light .Forpress h2 {
+    color: #2a3d4b;
+}
+
+.light .gnrl_green_brder_btn {
+    color: #2a3d4b;
+}
+
+.light .gnrl_green_brder_btn:hover {
+    background-color: #4bc56b;
+    color: #ffffff;
+}
+
+.light .leftbar > .inner_block .left_nav li.current:after {
+    background: #000;
+}
+
+.light .logo_sec ul li > div > h6 {
+    color: #2a3d4b;
+}

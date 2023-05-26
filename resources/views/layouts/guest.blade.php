@@ -1,0 +1,1 @@
+<h1>This is pointing to resources\views\layouts\guest.blade.php</h1>

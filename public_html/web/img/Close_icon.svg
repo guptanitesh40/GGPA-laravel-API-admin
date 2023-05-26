@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Close_icon" transform="translate(-994 -225)">
+    <circle id="Ellipse_408" data-name="Ellipse 408" cx="25" cy="25" r="25" transform="translate(994 225)" fill="#ff5f5f"/>
+    <path id="search_close" data-name="search close" d="M121.871,120.141l-9.882-9.882A1.233,1.233,0,0,0,110.245,112l9.882,9.883-9.882,9.883a1.233,1.233,0,1,0,1.744,1.744l9.883-9.882,9.883,9.882a1.233,1.233,0,1,0,1.744-1.743l-9.882-9.884L133.5,112a1.233,1.233,0,1,0-1.744-1.744l-9.882,9.882Z" transform="translate(898.137 128.123)" fill="#fff" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>

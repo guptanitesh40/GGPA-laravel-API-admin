@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Futura BdCn BT';
+    src: url('../fonts/FuturaBT-BoldCondensed.woff2') format('woff2'),
+        url('../fonts/FuturaBT-BoldCondensed.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura';
+    src: url('../fonts/Futura-Bold.woff2') format('woff2'),
+        url('../fonts/Futura-Bold.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura LtCn BT';
+    src: url('../fonts/FuturaBT-LightCondensed.woff2') format('woff2'),
+        url('../fonts/FuturaBT-LightCondensed.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

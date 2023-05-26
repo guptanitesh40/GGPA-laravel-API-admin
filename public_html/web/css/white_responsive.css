@@ -1,0 +1,24 @@
+@media only screen and (max-width: 768px) {
+    .light .mobile_nav {
+        background: #f1fdff;
+    }
+    .light header .mobile_nav li .menu_text {
+        color: #2a3d4b;
+    }
+    .light .header.active {
+        background: #f1fdff !important;
+    }
+    .light .mobile_menu {
+        display: block;
+        float: right;
+        color: #2a3d4b;
+        font-size: 34px;
+        margin: 12px 0 0 0;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .light .about_white_hero {
+        background-color: #7cb8db !important;
+    }
+}

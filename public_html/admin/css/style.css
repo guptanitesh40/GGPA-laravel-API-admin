@@ -1,0 +1,152 @@
+.actionBtn i {
+    padding: 10px 10px;
+    border: 1px solid #ddd;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+span.required {
+    color: #ff0001;
+}
+input.form-control.addLabelField {
+    margin-bottom: 1%;
+}
+input.saveLblsbtn.btn-primary {
+    padding: 10px;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+.control-sidebar-dark,
+.control-sidebar-dark + .control-sidebar-bg {
+    display: none;
+}
+.showUploadedImage {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.Productvariation.col-xs-12 {
+    padding: 1%;
+}
+a {
+    cursor: pointer;
+}
+.imageGroup {
+    display: flex;
+    overflow: auto;
+    padding-bottom: 2%;
+}
+
+.singleImage img {
+    width: 100%;
+}
+.singleImage {
+    margin: 0px 20px 0px 0px;
+    position: relative;
+    text-align: center;
+    height: 160px;
+    width: 130px;
+    overflow: hidden;
+}
+.multiImage {
+    height: 160px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.closeBtn {
+    position: relative;
+}
+.closeBtn i {
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    padding: 4px 4px;
+    background-color: #ff7f2c;
+    color: #fff;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+.modelSubmitBtn {
+    text-align: left;
+}
+.loader {
+    background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    display: none;
+    overflow: hidden !important;
+    height: 100%;
+}
+.InnerLoader {
+    margin: 0 auto;
+    width: 230px;
+}
+.LoaderImage {
+    padding: 258px 0;
+    text-align: center;
+    overflow: hidden !important;
+}
+.LoaderImage > img {
+    width: 108px;
+}
+.col-xs-12.firstMargine {
+    margin-bottom: 1%;
+}
+.productDetailsUpper {
+    float: left;
+    width: 100%;
+}
+.none {
+    display: none;
+}
+.addProdModel {
+    float: left;
+    width: 100%;
+}
+.deleteProductDetailIcon {
+    padding: 6%;
+}
+.margineBottom1Per {
+    margin-bottom: 1%;
+}
+.margineTop1Per {
+    margin-bottom: 1%;
+}
+.btn-download {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn-download:hover {
+    background-color: RoyalBlue;
+}
+.downloadReports {
+    padding: 0% 35%;
+}
+.downloadReportForm {
+    padding: 4%;
+}
+.deleteBlogSectionBtn {
+    margin-top: 50% !important;
+}
+.sectionGroup {
+    border: 1px solid #dddddd;
+    margin-bottom: 15px;
+}

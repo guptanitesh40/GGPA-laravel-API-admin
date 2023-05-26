@@ -1,0 +1,180 @@
+body.dark {
+    background: #2a3d4b;
+}
+.dark .sec_brdr_title {
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.5);
+}
+.dark .sec_scnd_title {
+    color: #fff;
+}
+.dark .sec_crsv_title {
+    color: #fff;
+}
+.dark .sec_para_main {
+    color: #fff;
+}
+.dark header {
+    background: rgba(42, 61, 75);
+}
+.dark header .mobile_nav li .menu_text {
+    color: #fff;
+}
+
+.dark .about_us_hero {
+    background-image: url("../img/about_hero_banner.png");
+}
+.dark .faq_hero {
+    background-image: url("../img/faq_illustrator.png");
+}
+.dark .contact_hero {
+    background-image: url("../img/contact_hero.png");
+}
+.dark .blog_hero {
+    background-image: url("../img/blog_hero_sec.png");
+}
+.dark .gtco-testimonials .card-text {
+    color: #fff;
+}
+.dark .gtco-testimonials .card-text_scnd {
+    color: #fff;
+}
+/*.dark .home_main_sec {
+    background-image: url("../img/vector_bg.png");
+}*/
+.dark .home_main_sec_08 {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.dark .about_main_sec_02 {
+    background-image: url("../img/home-experiences-dark.jpg");
+}
+.dark .about_main_sec_02.about_page {
+    background-image: url("../img/about-justtravel-dark.jpg");
+}
+.dark .contact_main_sec_02 {
+    background-image: url("../img/contact-faq-dark.jpg");
+}
+.dark .about_main_sec_03 input {
+    background: #002640;
+    color: #fff;
+}
+.dark .about_main_sec_03 textarea {
+    background: #002640;
+    color: #fff;
+}
+.dark .about_main_sec_03 p {
+    color: #fff;
+    text-align: center;
+}
+.dark .contact_main_sec_01 .contact_main_sec_01_details p {
+    color: #fff;
+}
+.dark .contact_main_sec_01 .contact_main_sec_01_details p span {
+    color: #fff;
+}
+.dark .faq_hero_sec {
+    background: transparent !important;
+}
+.dark .faq_main_sec_01 .accordion-heading a {
+    color: #fff;
+}
+.dark .faq_main_sec_01 .accordion-inner p {
+    color: #fff;
+}
+.dark .faq_main_sec_01 .accordion-group .accordion-group_cstmclas {
+    background: #1c2a36;
+}
+.dark
+    .faq_main_sec_01
+    .accordion-group
+    .accordion-group_cstmclas
+    .card-header
+    h2
+    button {
+    color: #fff;
+}
+.dark .blog_main_sec01 .card-body {
+    background-color: #2a3d4b;
+}
+.dark .blog_main_sec01 .blog_sec_title {
+    color: #fff;
+}
+.dark .blog_main_sec01 .blog_third_title {
+    color: #fff;
+}
+.dark .blog_main_sec01 .card-header a {
+    color: #000;
+}
+.dark .categoryName {
+    color: #fff;
+}
+.dark .blog_details_main_sec03 .blog_details_main_sec03_left ul li {
+    color: #fff;
+}
+.dark .blog_details_main_sec04 .blog_details_main_sec04_left p {
+    color: #fff;
+}
+.dark .blog_details_main_sec04 .blog_details_main_sec04_left ul li {
+    color: #fff;
+}
+.dark .content_privacy_policy {
+    color: #fff;
+}
+.dark .content_terms_and_conditions {
+    color: #fff;
+}
+.dark .hero_404 h3,
+.hero_404 h4,
+.hero_500 h3,
+.hero_500 h4 {
+    color: #fff;
+}
+
+.dark .specialoffer_sec_main_white {
+    display: none;
+}
+.dark .specialoffer_sec_main_dark {
+    display: block;
+}
+.dark .specialoffer_sec_main_dark .sec_scnd_title {
+    color: #2a3d4b;
+}
+.dark .specialoffer_sec_main_dark .sec_para_main {
+    color: #2a3d4b;
+}
+.dark .partner_logo_sec {
+    background-color: #10171c;
+}
+.dark .Forpress h1 {
+    color: #ffffff;
+}
+
+.dark .Forpress h2 {
+    color: #ffffff;
+}
+
+.dark .gnrl_green_brder_btn {
+    color: #ffffff;
+}
+
+.dark .gnrl_green_brder_btn:hover {
+    background-color: #4bc56b;
+    color: #ffffff;
+}
+
+.dark .home_not_destination h2,
+.dark .home_not_destination h6 {
+    color: #ffffff;
+}
+
+.dark .leftbar > .inner_block .left_nav li.current:after {
+    background: #fff;
+}
+
+.dark .logo_sec ul li > div > h6 {
+    color: #ffffff;
+}
+
+.dark .Forpress_sec {
+    background-image: url("../img/presskit-inquiry-dark.png") !important;
+}
